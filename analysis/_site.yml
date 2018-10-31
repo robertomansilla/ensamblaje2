@@ -3,8 +3,8 @@ output_dir: "../docs"
 navbar:
   title: "ensamblaje2"
   left:
-    - text: "Home"
-      href: index.html
+    - text: "flujo"
+      href: 10.html
     - text: "About"
       href: about.html
     - text: "License"
